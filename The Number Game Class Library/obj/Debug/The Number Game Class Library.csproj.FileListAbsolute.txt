@@ -1,0 +1,17 @@
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game Class Library\obj\Debug\The Number Game Class Library.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game Class Library\obj\Debug\The Number Game Class Library.csproj.CoreCompileInputs.cache
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game Class Library\bin\Debug\The Number Game Class Library.dll
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game Class Library\bin\Debug\The Number Game Class Library.pdb
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game Class Library\obj\Debug\The Number Game Class Library.dll
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game Class Library\obj\Debug\The Number Game Class Library.pdb
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game Class Library\bin\Debug\The Number Game Class Library.dll
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game Class Library\bin\Debug\The Number Game Class Library.pdb
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game Class Library\obj\Debug\The Number Game Class Library.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game Class Library\obj\Debug\The Number Game Class Library.csproj.CoreCompileInputs.cache
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game Class Library\obj\Debug\The Number Game Class Library.dll
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game Class Library\obj\Debug\The Number Game Class Library.pdb
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game Class Library\bin\Debug\The Number Game Class Library.dll
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game Class Library\bin\Debug\The Number Game Class Library.pdb
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game Class Library\obj\Debug\The Number Game Class Library.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game Class Library\obj\Debug\The Number Game Class Library.dll
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game Class Library\obj\Debug\The Number Game Class Library.pdb

@@ -1,0 +1,29 @@
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game\obj\Debug\The Number Game.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game\obj\Debug\The Number Game.csproj.CoreCompileInputs.cache
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game\bin\Debug\The Number Game.exe.config
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game\bin\Debug\The Number Game.exe
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game\bin\Debug\The Number Game.pdb
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game\bin\Debug\The Number Game Class Library.dll
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game\bin\Debug\The Number Game Class Library.pdb
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game\obj\Debug\The Number Game.csproj.CopyComplete
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game\obj\Debug\The Number Game.exe
+C:\Users\Calistro Vieyra\source\repos\The Number Game\The Number Game\obj\Debug\The Number Game.pdb
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game\bin\Debug\The Number Game.exe.config
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game\bin\Debug\The Number Game.exe
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game\bin\Debug\The Number Game.pdb
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game\bin\Debug\The Number Game Class Library.dll
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game\bin\Debug\The Number Game Class Library.pdb
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game\obj\Debug\The Number Game.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game\obj\Debug\The Number Game.csproj.CoreCompileInputs.cache
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game\obj\Debug\The Number Game.csproj.CopyComplete
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game\obj\Debug\The Number Game.exe
+C:\Users\Calistro Vieyra\Desktop\Created Games\The Number Game\The Number Game\obj\Debug\The Number Game.pdb
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game\bin\Debug\The Number Game.exe.config
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game\bin\Debug\The Number Game.exe
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game\bin\Debug\The Number Game.pdb
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game\bin\Debug\The Number Game Class Library.dll
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game\bin\Debug\The Number Game Class Library.pdb
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game\obj\Debug\The Number Game.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game\obj\Debug\The Number Game.csproj.CopyComplete
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game\obj\Debug\The Number Game.exe
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_The Number Game\The Number Game\obj\Debug\The Number Game.pdb

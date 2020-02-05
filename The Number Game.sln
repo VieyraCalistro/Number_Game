@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Number Game", "The Number Game\The Number Game.csproj", "{AB3C1A6F-0C57-4885-8BF6-CEE6E2A096E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Number Game Class Library", "The Number Game Class Library\The Number Game Class Library.csproj", "{1E8DBB8F-1AF8-4D0C-B19C-AEBBB01E39DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3C1A6F-0C57-4885-8BF6-CEE6E2A096E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3C1A6F-0C57-4885-8BF6-CEE6E2A096E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3C1A6F-0C57-4885-8BF6-CEE6E2A096E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3C1A6F-0C57-4885-8BF6-CEE6E2A096E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8DBB8F-1AF8-4D0C-B19C-AEBBB01E39DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8DBB8F-1AF8-4D0C-B19C-AEBBB01E39DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8DBB8F-1AF8-4D0C-B19C-AEBBB01E39DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8DBB8F-1AF8-4D0C-B19C-AEBBB01E39DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5F801EF-CD2A-4EF8-ABCC-FFA65E09E78D}
+	EndGlobalSection
+EndGlobal
